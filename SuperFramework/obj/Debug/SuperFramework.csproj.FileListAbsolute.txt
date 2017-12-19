@@ -1,0 +1,5 @@
+c:\users\попченком\documents\visual studio 2017\Projects\ExtencionMethodsLesson\SuperFramework\bin\Debug\SuperFramework.dll
+c:\users\попченком\documents\visual studio 2017\Projects\ExtencionMethodsLesson\SuperFramework\bin\Debug\SuperFramework.pdb
+c:\users\попченком\documents\visual studio 2017\Projects\ExtencionMethodsLesson\SuperFramework\obj\Debug\SuperFramework.csprojResolveAssemblyReference.cache
+c:\users\попченком\documents\visual studio 2017\Projects\ExtencionMethodsLesson\SuperFramework\obj\Debug\SuperFramework.dll
+c:\users\попченком\documents\visual studio 2017\Projects\ExtencionMethodsLesson\SuperFramework\obj\Debug\SuperFramework.pdb
